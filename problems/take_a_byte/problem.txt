@@ -1,0 +1,16 @@
+Lets bust the seal on this black box with a {italic}simple problem{/italic}.
+
+You will be given UTF-8 formated text as an array of arguments. Output both it and it's conversion to an arry of bytes to console. The array should be cast to string to make outputing to console easier.
+Please don't use any modules for this we want to get you comfortable with encodings and how they work before adding convience modules.
+
+When you have completed your program, you can run it in the test
+environment with:
+
+  {bold}{appname} run program.js{/bold}
+
+And once you are happy that it is correct then run:
+
+  {bold}{appname} verify program.js{/bold}
+
+And your submission will be verified for correctness. After you have
+a correct solution, run `{bold}{appname}{/bold}` again and select the next problem!
